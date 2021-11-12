@@ -12,13 +12,16 @@ Build a simple calculator with +, -, *, / operations
 - Update the state of the app with each button press
 
 ## Building an Interface
-[] Create the main page for the app
+[ ] Create the main page for the app
 
 ## Style the Interface
-[] InterfaceImprove the appearance of the main page
+[ ] InterfaceImprove the appearance of the main page
 
 ## Input and Output
-[] Process user input and display correct output
+[ ] Process user input and display correct output
 
 ## Implement Arithmetic
-[] ArithmeticImplement the main functionality behind the app
+[ ] ArithmeticImplement the main functionality behind the app
+
+Sample Screen
+![Calculator Homescreen](https://github.com/sumithpdd/flutter_basic_calculator/blob/main/flutter_01.png)
